@@ -3,5 +3,3 @@
 **Hi , I am a Data Professional with 3.7+ years of experience in IT industry as a software developer, having proficiency in data wrangling, visualization, and model building.**
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-⚡ Fun fact: 
